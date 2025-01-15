@@ -1,11 +1,16 @@
+import {Contador} from "./Contador"
+import { Trabajo } from "./Trabajo"
+
 function App(){
   return(
     <>
       <div>
-        <h1 className="text-3xl font-bold underline">Aprendiendo react</h1>
+        <h1 className="text-3xl font-bold underline">HOLAAAAAAAAA</h1>
       </div>
     </>
   )
 }
+
+
 
 export default App
