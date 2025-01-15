@@ -6,10 +6,13 @@ function App(){
     <>
       <div>
         <h1 className="text-3xl font-bold underline">HOLAAAAAAAAA</h1>
+      <Contador/>
+      <Trabajo/>
       </div>
     </>
   )
 }
+
 
 
 
